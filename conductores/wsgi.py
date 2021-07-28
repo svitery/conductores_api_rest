@@ -11,6 +11,7 @@ import os
 
 """
 Código que se ejecuta cuando inicia la aplicación, se encarga de consultar el endpoint de los datos
+periodicamente
 """
 import datos.load_database
 
